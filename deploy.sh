@@ -1,0 +1,1 @@
+aptos move publish --skip-fetch-latest-git-deps

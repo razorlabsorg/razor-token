@@ -1,0 +1,1 @@
+aptos move compile --skip-fetch-latest-git-deps

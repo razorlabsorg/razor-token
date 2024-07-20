@@ -4,6 +4,8 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+razor_token = "3b7f052c01641ae5f1f3bf21c935c08b3983e7c601d93f831ba754d387ec35df"
+zero_address = "0000000000000000000000000000000000000000000000000000000000000000"
 
 [dev-addresses]
 
